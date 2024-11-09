@@ -11,9 +11,3 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <App />
   </TonConnectUIProvider>,
 )
-//Use this token to access the HTTP API:
-
-// 7453714231:AAEhXxnn8PaJdb1mnBVQE0AyPUbrjBpNiWk
-//git clone https://github.com/Tripixio/tripixio.github.io
-
-
